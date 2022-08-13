@@ -1,10 +1,10 @@
 package com.cg.string;
 
-public class StringTokenizer {
+import java.util.StringTokenizer;
 
-	public StringTokenizer(String string) {
-		
-	}
+public class StrTokenizer {
+
+	
 
 	public static void main(String[] args) {
 		
@@ -14,10 +14,7 @@ public class StringTokenizer {
 
 	}
 
-	private char[] nextToken() {
-		
-		return null;
-	}
+	
 }
 
 	

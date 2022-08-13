@@ -1,20 +1,16 @@
 package com.cg.string;
 
-public class StringBuffer {
+public class StrBuffer {
 	
 	public void setCharAt(int i, char c) {
-		// TODO Auto-generated method stub
+		
 		
 	}
-	public StringBuffer(String string) {
-		// TODO Auto-generated constructor stub
-	}
-	private char[] capacity() {
-		// TODO Auto-generated method stub
-		return null;
+	public void StringBuffer(String string) {
+		
 	}
 	public char[] charAt(int i) {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
